@@ -106,7 +106,7 @@ description: |
 
 ```bash
 dreamina image2image \
-  --image "./base.jpg" \
+  --images "./base.jpg" \
   --prompt "提示词" \
   --ratio=9:16 \
   --resolution_type=2k \
